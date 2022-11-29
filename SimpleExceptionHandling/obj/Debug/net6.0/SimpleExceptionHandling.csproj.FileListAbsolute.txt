@@ -1,0 +1,15 @@
+/Users/user/Projects/SimpleExceptionHandling/SimpleExceptionHandling/bin/Debug/net6.0/SimpleExceptionHandling
+/Users/user/Projects/SimpleExceptionHandling/SimpleExceptionHandling/bin/Debug/net6.0/SimpleExceptionHandling.deps.json
+/Users/user/Projects/SimpleExceptionHandling/SimpleExceptionHandling/bin/Debug/net6.0/SimpleExceptionHandling.runtimeconfig.json
+/Users/user/Projects/SimpleExceptionHandling/SimpleExceptionHandling/bin/Debug/net6.0/SimpleExceptionHandling.dll
+/Users/user/Projects/SimpleExceptionHandling/SimpleExceptionHandling/bin/Debug/net6.0/SimpleExceptionHandling.pdb
+/Users/user/Projects/SimpleExceptionHandling/SimpleExceptionHandling/obj/Debug/net6.0/SimpleExceptionHandling.csproj.AssemblyReference.cache
+/Users/user/Projects/SimpleExceptionHandling/SimpleExceptionHandling/obj/Debug/net6.0/SimpleExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/SimpleExceptionHandling/SimpleExceptionHandling/obj/Debug/net6.0/SimpleExceptionHandling.AssemblyInfoInputs.cache
+/Users/user/Projects/SimpleExceptionHandling/SimpleExceptionHandling/obj/Debug/net6.0/SimpleExceptionHandling.AssemblyInfo.cs
+/Users/user/Projects/SimpleExceptionHandling/SimpleExceptionHandling/obj/Debug/net6.0/SimpleExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/user/Projects/SimpleExceptionHandling/SimpleExceptionHandling/obj/Debug/net6.0/SimpleExceptionHandling.dll
+/Users/user/Projects/SimpleExceptionHandling/SimpleExceptionHandling/obj/Debug/net6.0/refint/SimpleExceptionHandling.dll
+/Users/user/Projects/SimpleExceptionHandling/SimpleExceptionHandling/obj/Debug/net6.0/SimpleExceptionHandling.pdb
+/Users/user/Projects/SimpleExceptionHandling/SimpleExceptionHandling/obj/Debug/net6.0/SimpleExceptionHandling.genruntimeconfig.cache
+/Users/user/Projects/SimpleExceptionHandling/SimpleExceptionHandling/obj/Debug/net6.0/ref/SimpleExceptionHandling.dll
